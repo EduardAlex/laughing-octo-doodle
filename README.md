@@ -3,6 +3,6 @@ i just pressed random on github's suggestions for a repo name
 
 use 
 
-`import lod
+`import lod`
 
-lod.laugh()`
+`lod.laugh()`
